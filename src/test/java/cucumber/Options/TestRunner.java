@@ -10,8 +10,8 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(
         features = {"src/test/java/features"},
-        glue = {"stepDefinitions"},
-        tags = "@DeletePlace"
+        glue = {"stepDefinitions"}
+//        tags = "@DeletePlace"
 )
 
 

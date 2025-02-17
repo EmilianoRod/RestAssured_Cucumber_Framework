@@ -15,7 +15,6 @@ import resources.APIResources;
 import resources.TestDataBuild;
 import resources.Utils;
 
-import java.io.FileNotFoundException;
 import java.io.IOException;
 
 import static io.restassured.RestAssured.given;

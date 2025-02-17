@@ -14,7 +14,7 @@ Body:
     "accuracy": 50,
     "name": "Emiliano",
     "phone_number": "(+91) 983 893 3937",
-    "address": "canelones 2024",
+    "address": "Maldonado 2342",
     "website": "https://rahulshettyacademy.com",
     "language": "Spanish",
     "location": {
@@ -27,7 +27,7 @@ Body:
     ]
 }
 HTTP/1.1 200 OK
-Date: Fri, 14 Feb 2025 22:10:27 GMT
+Date: Mon, 17 Feb 2025 15:46:12 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -40,17 +40,17 @@ Content-Type: application/json;charset=UTF-8
 
 {
     "status": "OK",
-    "place_id": "26d54bc57c6e572f18704ece94ef4d8d",
+    "place_id": "0e22d33919960adcfa98a11d32a64371",
     "scope": "APP",
-    "reference": "55fd92f43ec1b49f92114c449be3632d55fd92f43ec1b49f92114c449be3632d",
-    "id": "55fd92f43ec1b49f92114c449be3632d"
+    "reference": "bb94dc185a9fd3383942aa7821d0e10dbb94dc185a9fd3383942aa7821d0e10d",
+    "id": "bb94dc185a9fd3383942aa7821d0e10d"
 }
 Request method:	GET
-Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=26d54bc57c6e572f18704ece94ef4d8d
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=0e22d33919960adcfa98a11d32a64371
 Proxy:			<none>
 Request params:	<none>
 Query params:	key=qaclick123
-				place_id=26d54bc57c6e572f18704ece94ef4d8d
+				place_id=0e22d33919960adcfa98a11d32a64371
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
@@ -59,7 +59,7 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:			<none>
 HTTP/1.1 200 OK
-Date: Fri, 14 Feb 2025 22:10:29 GMT
+Date: Mon, 17 Feb 2025 15:46:14 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
@@ -78,7 +78,7 @@ Content-Type: application/json;charset=UTF-8
     "accuracy": "50",
     "name": "Emiliano",
     "phone_number": "(+91) 983 893 3937",
-    "address": "canelones 2024",
+    "address": "Maldonado 2342",
     "types": "shoe park,shop",
     "website": "https://rahulshettyacademy.com",
     "language": "Spanish"
@@ -96,10 +96,10 @@ Cookies:		<none>
 Multiparts:		<none>
 Body:
 {
-    "place_id": "26d54bc57c6e572f18704ece94ef4d8d"
+    "place_id": "0e22d33919960adcfa98a11d32a64371"
 }
 HTTP/1.1 200 OK
-Date: Fri, 14 Feb 2025 22:10:32 GMT
+Date: Mon, 17 Feb 2025 15:46:17 GMT
 Server: Apache/2.4.52 (Ubuntu)
 Access-Control-Allow-Origin: *
 Access-Control-Allow-Methods: POST
